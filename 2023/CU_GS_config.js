@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023NYTR",
+      "defaultValue": "2023nytr",
       "required": "true",
       "disabled": "true"
     },
